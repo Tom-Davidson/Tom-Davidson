@@ -1,6 +1,6 @@
 ### Hi, I'm Tom 👋
 
-You can also fine me on:
+You can also find me on:
 
 - [![Linkedin: tomdavidsonuk](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomdavidsonuk/)](https://www.linkedin.com/in/www.linkedin.com/in/tomdavidsonuk/)
 - [![Twitter](https://img.shields.io/twitter/follow/sanitylapse?label=Follow)](https://twitter.com/intent/follow?screen_name=sanitylapse)
